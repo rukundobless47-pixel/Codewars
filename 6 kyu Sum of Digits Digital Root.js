@@ -9,4 +9,4 @@ function digitalRoot(n) {
 }
   return sum;
 }
-console.log(digitalRoot(493193));
+console.log(digitalRoot(49319311));

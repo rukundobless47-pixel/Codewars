@@ -10,3 +10,4 @@ function digitalRoot(n) {
   return sum;
 }
 console.log(digitalRoot(49319311));
+//1. Elysee

@@ -12,3 +12,4 @@ function digitalRoot(n) {
 console.log(digitalRoot(49319311));
 //1. Elysee
 //2. Bruce
+//3. Bless
